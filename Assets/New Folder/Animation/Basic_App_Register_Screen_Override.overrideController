@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Basic_App_Register_Screen_Override
+  m_Controller: {fileID: 9100000, guid: 5fbb737915622df46a9429618ef19aa1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6bcb665d71ea62e42a57940c776f6d6e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6bcb665d71ea62e42a57940c776f6d6e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f473a82443d57794e9dc8a8f3fbe78ee, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f473a82443d57794e9dc8a8f3fbe78ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4aa20e9f73cfafd4fa56f1665013b353, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4aa20e9f73cfafd4fa56f1665013b353, type: 2}
